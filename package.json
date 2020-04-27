@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "promise.all with an object",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/pouc/all-values.git"
