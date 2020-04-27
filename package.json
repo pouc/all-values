@@ -1,6 +1,6 @@
 {
   "name": "all-values",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "promise.all with an object",
   "main": "index.js",
   "scripts": {},
